@@ -1,0 +1,18 @@
+1. The shopper is and they can be an adult or minor 
+
+2. The secondary actor is the employee
+
+3. Use cases start with verbs 
+
+4. Nouns are used to describe the actors
+
+5.The shopper is the primary actor because they are starting the interactions with the system
+they do this by proving ID and scanning items
+
+6.The employee is not shopping at the store but is reacting to the actions of the shoppers
+by verifing IDs and checking for items in the cart. 
+
+7.It extends it because uou only need to check an ID in certian cases. 
+
+8. It includes it because you always want to check that there are no items that have not
+been scanned. 
